@@ -37,7 +37,7 @@ The agent answers country-related questions such as capital, currency, populatio
 ## . Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sumit0991/Country_AGENT.git
 cd Country-Info-Agent
 ```
 
