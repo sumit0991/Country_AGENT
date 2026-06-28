@@ -92,7 +92,7 @@ OPENROUTER_API_KEY=your_api_key_here
 # ▶️ Run the Project
 
 ```bash
-python main.py
+streamlit run app.py
 ```
 
 
